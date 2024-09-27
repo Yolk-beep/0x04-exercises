@@ -32,3 +32,5 @@ int main() {
 
   return 0;
 }
+// Okay I just saw the Heron's formula, and that would make it so that you get 3 parameters for the last function
+// but I kinda cba going back and changing everything so I'll just leave it be. I know what to do :))
